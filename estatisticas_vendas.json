@@ -1,0 +1,14 @@
+{
+    "📦 5 Caixas": {
+        "vendas_feitas": 4,
+        "total_faturado": 40.0
+    },
+    "🎫 Passe": {
+        "vendas_feitas": 1,
+        "total_faturado": 25.0
+    },
+    "💵 cash 1K": {
+        "vendas_feitas": 10,
+        "total_faturado": 35.0
+    }
+}
